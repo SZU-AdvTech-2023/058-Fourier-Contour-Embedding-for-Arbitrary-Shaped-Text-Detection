@@ -1,0 +1,7 @@
+@inproceedings{REPO058,
+    author = "Zhu, Yiqin and Chen, Jianyong and Liang, Lingyu and Kuang, Zhanghui and Jin, Lianwen and Zhang, Wayne",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "3123--3131",
+    title = "{Fourier Contour Embedding for Arbitrary-Shaped Text Detection}",
+    year = "2021"
+}
